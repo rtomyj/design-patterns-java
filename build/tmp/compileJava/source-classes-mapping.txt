@@ -1,0 +1,8 @@
+com/rtomyj/design/patterns/App.java
+ com.rtomyj.design.patterns.App
+com/rtomyj/design/patterns/singleton/SingletonMain.java
+ com.rtomyj.design.patterns.singleton.SingletonMain
+com/rtomyj/design/patterns/singleton/LazySingleton.java
+ com.rtomyj.design.patterns.singleton.LazySingleton
+com/rtomyj/design/patterns/singleton/EagerSingleton.java
+ com.rtomyj.design.patterns.singleton.EagerSingleton
