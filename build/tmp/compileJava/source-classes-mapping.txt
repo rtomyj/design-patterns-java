@@ -1,8 +1,22 @@
-com/rtomyj/design/patterns/App.java
- com.rtomyj.design.patterns.App
-com/rtomyj/design/patterns/singleton/SingletonMain.java
- com.rtomyj.design.patterns.singleton.SingletonMain
-com/rtomyj/design/patterns/singleton/LazySingleton.java
- com.rtomyj.design.patterns.singleton.LazySingleton
 com/rtomyj/design/patterns/singleton/EagerSingleton.java
  com.rtomyj.design.patterns.singleton.EagerSingleton
+com/rtomyj/design/patterns/App.java
+ com.rtomyj.design.patterns.App
+com/rtomyj/design/patterns/factory/Account.java
+ com.rtomyj.design.patterns.factory.Account
+com/rtomyj/design/patterns/singleton/SingletonMain.java
+ com.rtomyj.design.patterns.singleton.SingletonMain
+com/rtomyj/design/patterns/prototype/Prototype.java
+ com.rtomyj.design.patterns.prototype.Prototype
+com/rtomyj/design/patterns/factory/CheckingAccount.java
+ com.rtomyj.design.patterns.factory.CheckingAccount
+com/rtomyj/design/patterns/singleton/LazySingleton.java
+ com.rtomyj.design.patterns.singleton.LazySingleton
+com/rtomyj/design/patterns/prototype/PrototypeMain.java
+ com.rtomyj.design.patterns.prototype.PrototypeMain
+com/rtomyj/design/patterns/factory/SavingsAccount.java
+ com.rtomyj.design.patterns.factory.SavingsAccount
+com/rtomyj/design/patterns/factory/SimpleFactory.java
+ com.rtomyj.design.patterns.factory.SimpleFactory
+com/rtomyj/design/patterns/factory/FactoryMain.java
+ com.rtomyj.design.patterns.factory.FactoryMain

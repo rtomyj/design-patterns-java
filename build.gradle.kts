@@ -1,6 +1,8 @@
 val lombokVersion = "1.18.12"
 
 val SINGLETON_MAIN_CLASS = "com.rtomyj.design.patterns.singleton.SingletonMain"
+val PROTOTYYPE_MAIN_CLASS = "com.rtomyj.design.patterns.prototype.PrototypeMain"
+val FACTORY_MAIN_CLASS = "com.rtomyj.design.patterns.factory.FactoryMain"
 
 
 plugins {
@@ -26,7 +28,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = SINGLETON_MAIN_CLASS
+    mainClassName = FACTORY_MAIN_CLASS
 }
 
 
