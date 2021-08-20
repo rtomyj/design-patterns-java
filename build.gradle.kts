@@ -3,6 +3,7 @@ val lombokVersion = "1.18.12"
 val SINGLETON_MAIN_CLASS = "com.rtomyj.design.patterns.singleton.SingletonMain"
 val PROTOTYYPE_MAIN_CLASS = "com.rtomyj.design.patterns.prototype.PrototypeMain"
 val FACTORY_MAIN_CLASS = "com.rtomyj.design.patterns.factory.FactoryMain"
+val ITERATOR_MAIN_CLASS = "com.rtomyj.design.patterns.iterator.IteratorMain"
 
 
 plugins {

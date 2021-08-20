@@ -1,4 +1,4 @@
-package com.rtomyj.design.patterns.factory;
+package com.rtomyj.design.patterns.factory.model;
 
 import lombok.ToString;
 
@@ -10,7 +10,7 @@ public abstract class Account
     String accountNumber;
 
 
-    abstract String getAccountStatus();
+    public abstract String getAccountStatus();
 
     abstract boolean accruesInterest();
 

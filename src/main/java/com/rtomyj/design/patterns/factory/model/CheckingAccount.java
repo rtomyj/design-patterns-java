@@ -1,4 +1,4 @@
-package com.rtomyj.design.patterns.factory;
+package com.rtomyj.design.patterns.factory.model;
 
 
 import lombok.ToString;
@@ -16,7 +16,7 @@ public class CheckingAccount extends Account
     }
 
     @Override
-    String getAccountStatus()
+    public String getAccountStatus()
     {
 
         return String.format("Account %s has balance %.2f. This account doesn't have limits on withdrawals", accountNumber, balance);
