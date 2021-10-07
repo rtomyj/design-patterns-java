@@ -1,4 +1,4 @@
-val lombokVersion = "1.18.20"
+val lombokVersion = "1.18.22"
 
 val SINGLETON_MAIN_CLASS = "com.rtomyj.design.patterns.singleton.SingletonMain"
 val PROTOTYYPE_MAIN_CLASS = "com.rtomyj.design.patterns.prototype.PrototypeMain"
